@@ -1,0 +1,3 @@
+obj/ssa.o: src/ssa.cc src/ssa.h
+
+src/ssa.h:

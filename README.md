@@ -1,20 +1,7 @@
-# SSA_TSP_CUDA
+# P-SSA
 
 This is a new version of the GPU based social spider algorithm for solving the traveling salesman problem (TSP) based on the code of [GPUbasedACS](https://github.com/RSkinderowicz/GPUBasedACS) of Skinderowicz, Rafał.
 Thanks for the code support of Skinderowicz, Rafał.
-
-
-# Compilation Environment 
-
-This code is tested in the following environment:
-
-    Intel i7-7700K 4.20GHz CPU
-    RTX2080ti GPU
-    Ubuntu 16.04.6 LTS 
-    CUDA 10.0
-    GCC v5.4
-
-
 
 # Building
 
